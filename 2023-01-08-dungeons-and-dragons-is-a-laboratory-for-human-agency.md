@@ -1,5 +1,5 @@
 ---
-author: Galen
+author: galen
 date: 2023-01-08 03:40:00 +0000
 layout: post
 permalink: "22"

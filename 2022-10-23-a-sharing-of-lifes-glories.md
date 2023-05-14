@@ -1,5 +1,5 @@
 ---
-author: Stella
+author: stella
 date: 2022-10-23 13:50:25 +0000
 layout: post
 permalink: "7"
