@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-11-03 02:19:21 +0000
 layout: post
-permalink: 10
+permalink: "10"
 title: As Precursor, Not Parallel
 ---
 

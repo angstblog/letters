@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-11-20 16:37:37 +0000
 layout: post
-permalink: 13
+permalink: "13"
 title: the suppository of bureaucracy
 ---
 

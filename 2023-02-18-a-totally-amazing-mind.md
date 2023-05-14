@@ -2,7 +2,7 @@
 author: Stella
 date: 2023-02-18 18:14:40 +0000
 layout: post
-permalink: 29
+permalink: "29"
 title: a totally amazing mind
 ---
 

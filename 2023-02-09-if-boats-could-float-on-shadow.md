@@ -2,7 +2,7 @@
 author: Galen
 date: 2023-02-09 09:11:50 +0000
 layout: post
-permalink: 28
+permalink: "28"
 title: If Boats Could Float On Shadow
 ---
 

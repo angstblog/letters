@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-10-03 14:57:33 +0000
 layout: post
-permalink: 3
+permalink: "3"
 title: the problem of minds
 ---
 

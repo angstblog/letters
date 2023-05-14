@@ -2,7 +2,7 @@
 author: Stella
 date: 2023-03-05 19:03:10 +0000
 layout: post
-permalink: 31
+permalink: "31"
 title: the rabbit hole
 ---
 

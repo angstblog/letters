@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-10-26 23:20:59 +0000
 layout: post
-permalink: 8
+permalink: "8"
 title: Fractal Conflict, Spectacle Violence
 ---
 

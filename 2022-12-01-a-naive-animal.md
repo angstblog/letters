@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-12-01 10:32:27 +0000
 layout: post
-permalink: 15
+permalink: "15"
 title: "a na\xEFve animal"
 ---
 

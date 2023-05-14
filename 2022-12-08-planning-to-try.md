@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-12-08 17:42:09 +0000
 layout: post
-permalink: 17
+permalink: "17"
 title: planning to try
 ---
 

@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-12-03 11:50:05 +0000
 layout: post
-permalink: 16
+permalink: "16"
 title: Cultivation of One's Garden
 ---
 

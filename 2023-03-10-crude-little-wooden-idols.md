@@ -2,7 +2,7 @@
 author: Galen
 date: 2023-03-10 10:12:16 +0000
 layout: post
-permalink: 32
+permalink: "32"
 title: Crude Little Wooden Idols
 ---
 

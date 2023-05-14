@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-12-23 06:29:28 +0000
 layout: post
-permalink: 20
+permalink: "20"
 title: Motive Forces
 ---
 

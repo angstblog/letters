@@ -2,7 +2,7 @@
 author: Stella
 date: 2023-02-05 22:13:57 +0000
 layout: post
-permalink: 27
+permalink: "27"
 title: another day
 ---
 

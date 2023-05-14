@@ -2,7 +2,7 @@
 author: Galen
 date: 2023-01-15 09:37:16 +0000
 layout: post
-permalink: 24
+permalink: "24"
 title: Adopting an XP-gan Diet
 ---
 

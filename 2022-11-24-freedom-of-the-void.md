@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-11-24 02:09:40 +0000
 layout: post
-permalink: 14
+permalink: "14"
 title: Freedom of the Void
 ---
 

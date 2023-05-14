@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-12-20 17:09:58 +0000
 layout: post
-permalink: 19
+permalink: "19"
 title: insider knowledge
 ---
 

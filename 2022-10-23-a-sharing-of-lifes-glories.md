@@ -2,7 +2,7 @@
 author: Stella
 date: 2022-10-23 13:50:25 +0000
 layout: post
-permalink: 7
+permalink: "7"
 title: a sharing of life's glories
 ---
 

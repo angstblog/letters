@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-10-11 07:18:41 +0000
 layout: post
-permalink: 4
+permalink: "4"
 title: Stilts, Supports, Subagents, Shims
 ---
 

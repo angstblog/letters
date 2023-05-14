@@ -2,7 +2,7 @@
 author: Stella
 date: 2023-01-12 22:47:13 +0000
 layout: post
-permalink: 23
+permalink: "23"
 title: into the breach
 ---
 

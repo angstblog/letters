@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-12-10 12:10:02 +0000
 layout: post
-permalink: 18
+permalink: "18"
 title: You're Never Gonna Be Anything Those People Respect
 ---
 

@@ -2,7 +2,7 @@
 author: Galen
 date: 2022-11-16 06:14:53 +0000
 layout: post
-permalink: 12
+permalink: "12"
 title: A Fantasy of Bureaucracy-in-Absence
 ---
 
