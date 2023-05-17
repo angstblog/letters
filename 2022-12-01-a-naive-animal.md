@@ -3,7 +3,7 @@ author: stella
 date: 2022-12-01 10:32:27 +0000
 layout: post
 permalink: "15"
-title: "a na\xEFve animal"
+title: "a naïve animal"
 ---
 
 
@@ -25,4 +25,4 @@ So yes, [I share your unspoken unwillingness to be smug and ridicule enlightenme
 
 I've struggled to think of myself as an outsider or a weirdo or any renegade figure in the past - my path seems to run through too many offices and too close to the conventional - but I've tried to keep some part of myself separate, innocent of the culture that twists earnest work into hopeless dead ends or worse.
 
-It's the value of these letters and the little sociological stories. Is cultured naïvety too oxymoronic?
+It's the value of these letters and the little sociological stories. Is cultured naïvety too oxymoronic? 

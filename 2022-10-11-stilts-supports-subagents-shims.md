@@ -14,12 +14,12 @@ As the title of this letter suggests, there are four terms I want to gesture tow
 
 First, there’s **subagents**. I take the subagents view to be (basically) rooted in some variation on the following general structure of insights:
 
-  1. We tend to think of individual humans as unified/coherent ‘agents’. This is an imperfect model (or ‘[leaky abstraction](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)’ if you prefer).
-  2. In reality, most individual humans are (to at least some extent) fragmented/incoherent in the sense that they exhibit (and usually report having) internally conflicting desires, motivations, and needs. As a result, most individual humans take not-totally-coherent actions. It’s possible to ‘let yourself get the better of your better self’.
-  3. Given (2), a _better_ model is that a given individual human is ‘composed of [sub]agents’, where each of those subagents has its own (more coherent) wants and needs.
-  4. The action of an individual human arises out of (some kind of) process of negotiation between that individual human’s subagents.
+1. We tend to think of individual humans as unified/coherent ‘agents’. This is an imperfect model (or ‘[leaky abstraction](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)’ if you prefer).
+2. In reality, most individual humans are (to at least some extent) fragmented/incoherent in the sense that they exhibit (and usually report having) internally conflicting desires, motivations, and needs. As a result, most individual humans take not-totally-coherent actions. It’s possible to ‘let yourself get the better of your better self’.
+3. Given (2), a *better* model is that a given individual human is ‘composed of [sub]agents’, where each of those subagents has its own (more coherent) wants and needs.
+4. The action of an individual human arises out of (some kind of) process of negotiation between that individual human’s subagents.
 
-There are various approaches which make radically different claims on top of this basic structure. If you don’t mind a bit of _woo_ with your crumpets, there are theraputic frameworks such as ‘Internal Family Systems’ (IFS) which suggest techniques by which ‘you’ can access, name, and stage productive conversations between your subagents. If instead you’re more into “trying
+There are various approaches which make radically different claims on top of this basic structure. If you don’t mind a bit of *woo* with your crumpets, there are theraputic frameworks such as ‘Internal Family Systems’ (IFS) which suggest techniques by which ‘you’ can access, name, and stage productive conversations between your subagents. If instead you’re more into “trying
 desperately to make actual progress towards being able to guarantee robustly safe & aligned AI before it’s too late”, then you can use this subagent model as a way into [more](https://www.alignmentforum.org/posts/3xF66BNSC5caZuKyC/why-subagents#Applications___Speculations) [general](https://www.alignmentforum.org/posts/QBAjndPuFbhEXKcCr/my-understanding-of-what-everyone-in-technical-alignment-is#Deception___Inner_Alignment___Evan_Hubinger) [work](https://www.alignmentforum.org/sequences/iRwYCpcAXuFD24tHh) on the possibility of ensuring that any truly powerful systems we build are both ‘inner’ and ‘outer’ aligned in various important senses of those terms. And then, of course, as always, there’s a universe of stuff that builds on _that_ [trauma](https://www.nytimes.com/2021/08/24/opinion/ezra-klein-podcast-van-der-kolk.html) [book](https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score), and points out the extent to which symptoms of incoherence & conflict between these ‘subagents’—including, perhaps, ‘[akrasia](https://en.wikipedia.org/wiki/Akrasia)’—overlap with certain kinds of trauma symptoms.
 
 [You asked](https://angst.blog/3):
@@ -30,19 +30,19 @@ I take discussions of subagents, and the negotiated resolution of disagreements 
 
 Second, there’s talk of (social) **supports**. In my mind, this kind of discourse shades all the way from vanilla ‘[self-care](https://innertoxicrelief.com/how-to-build-a-strong-social-support-network/)’ to social justice ‘[solidarity](https://joanakompa.com/2018/01/18/why-solidarity-notes-on-social-justice/)’ to anarchist infrastructures of ‘[community](https://theanarchistlibrary.org/library/anonymous-the-importance-of-support)’. Whereas the universe of ‘subagents’ discourse focuses on a rethinking of individual agents, my sense is that the ‘social support’ discourse is instead rooted a desire to reorient _outwards_ , towards a line of claims that’s something like:
 
-  1. We think of ourselves as atomic, self-sufficient individuals.
-  2. In reality, we’re all intensely embedded in networks of relations to other individuals.
-  3. Given (2), we should consciously build and maintain strong, positive relations to other individuals so that we ‘support’ and ‘be supported’ by them when bad things happen.
-  4. Most people don’t do (3) enough.
+1. We think of ourselves as atomic, self-sufficient individuals.
+2. In reality, we’re all intensely embedded in networks of relations to other individuals.
+3. Given (2), we should consciously build and maintain strong, positive relations to other individuals so that we ‘support’ and ‘be supported’ by them when bad things happen.
+4. Most people don’t do (3) enough.
 
 This is all fine and good. I bounce off most self-care-is-solidarity-and-community talk, as you know. But this is all fine. (Honestly, I dream of one day stumbling onto a peer-reviewed paper that suggests ‘community’ is in fact _unimportant_ to self-reported wellbeing, or that strong/positive social ties have absolutely no impact on any measured physiological stress markers. At least then the little Welsh troll at the base of my skull that whispers phrases like ‘file draw effect’ would shut up.)
 
 Third, there’s your addition: **stilts**. I see this as something like ‘supports, but with awareness of subagents’. I take the thing you’re saying (indirectly) to be something like:
 
-  1. If you introspect, you notice that neither ‘individual identity’ nor ‘interpersonal relations’ are particularly well-defined concepts.
-  2. In practice, any serious attempt to be a coherent agent in the world entails some amount of ‘being able to rely on interpersonal relationships to hold the-you-that-you-are up’, and some amount of ‘recognising that those interpersonal relationships also alter, direct, and transform the-you-that-you-are (and the direction ’you’ go in)’.
-  3. There are inherent tensions in (2). In particular: the people at the other end of the interpersonal relationships are themselves constantly shifting.
-  4. ‘Balancing’ in light of (3) is less of an identifiable ‘state of affairs’ and more of a ‘constant process’.
+1. If you introspect, you notice that neither ‘individual identity’ nor ‘interpersonal relations’ are particularly well-defined concepts.
+2. In practice, any serious attempt to be a coherent agent in the world entails some amount of ‘being able to rely on interpersonal relationships to hold the-you-that-you-are up’, and some amount of ‘recognising that those interpersonal relationships also alter, direct, and transform the-you-that-you-are (and the direction ’you’ go in)’.
+3. There are inherent tensions in (2). In particular: the people at the other end of the interpersonal relationships are themselves constantly shifting.
+4. ‘Balancing’ in light of (3) is less of an identifiable ‘state of affairs’ and more of a ‘constant process’.
 
 I’m reminded of the famous line from Clifford Geertz, in ‘Thick Description’:
 
@@ -56,11 +56,11 @@ In general, a ‘shim’ is a small, thin, tapered or wedged piece of material. 
 
 In this metaphor, I claim, humans are often trying to create (or discover, or repair, or modify, or share) _shims_ of various sorts. At the level of individual humans interacting only with themselves, ‘shims’ are the habits we form (and masts we decide to bind ourselves to) so that we can fill some of the gaps between our subagents and reduce the damage they would otherwise do to each other when they rattle about. And at the level of the ‘interpersonal’, shims are the things we use to make our relationships more manageable and robustly positive-sum (or our stilts more easy to balance on). They can be rules, or habits, or psychological technologies, or physical technologies. The key is that a metaphorical shim, here, is
 
-  1.  _small_,
-  2. often transparent once installed, and
-  3. either
-    (a) used to fill an otherwise-damaging gap between two systems, or
-    (b) used to create a useful gap where otherwise a damaging, friction-filled interface would exist.
+1.  _small_,
+2. often transparent once installed, and
+3. either
+  (a) used to fill an otherwise-damaging gap between two systems, or
+  (b) used to create a useful gap where otherwise a damaging, friction-filled interface would exist.
 
 When I decide to answer the phone if and only if I reflexively smile when I see the name of the contact that’s calling me, I’m (unilaterally) acting to increase the energy I put into the vibrantly positive-sum relationships in my life. That blanket decision rule is a shim.
 

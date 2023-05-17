@@ -37,8 +37,7 @@ There's an ancient thread of tweets from [@fucktheory](https://twitter.com/fuckt
 >
 > The kids who could, and in so many cases would, have gone back to their communities to teach, to read, to lead, to work.
 
-Lately, in spare moments, as I wait for the kettle to boil, I've noticed that I keep thinking of '[The Professor of Parody](https://newrepublic.com/article/150687/professor-parody)'. And I keep wondering whether this whole situation—the situation of The World to which I can only, y'know, *gesture broadly—* might be, in some sense, a just brutal
-reminder of our collective failure to internalise the 'Professor of Parody' critique.
+Lately, in spare moments, as I wait for the kettle to boil, I've noticed that I keep thinking of '[The Professor of Parody](https://newrepublic.com/article/150687/professor-parody)'. And I keep wondering whether this whole situation—the situation of The World to which I can only, y'know, *gesture broadly—* might be, in some sense, a just brutal reminder of our collective failure to internalise the 'Professor of Parody' critique.
 
 Maybe the Year of Our Lord, Twenty-Twenty-Two, is the year that we'll all have to face the facts: Martha Nussbaum was *basically correct* when she wrote her critique of Butlerian discourse fetishism a full twenty-three years ago. And then she was basically correct (and basically ignored) in every intervening year. And now notions of 'practicality' and 'feasibility' and 'reality' are—at least amongst middle- and upper-class genpop—empty signifiers that one is encouraged to sneer at. Only the abstract [vibe](https://twitter.com/SethRudy/status/1564772552131608576) of 'ironic grift' remains acceptable.
 
