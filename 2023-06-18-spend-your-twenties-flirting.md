@@ -6,8 +6,6 @@ permalink: "35"
 title: "spend your twenties flirting"
 ---
 
-Dear Galen, 
-
 More opportunities to encounter a risk – more magpies on the move, [you say](https://angst.blog/34). 
 
 How many decisions of meaning do we actually make, in our lives? I mean, how many that transform the course of who we are or will become, rather than ones that simply stretch the daily experience of being ourselves slightly further from the mean for a month or two, before the rubbery contours of the self make themselves known and spring back to their previous form? 
@@ -21,6 +19,3 @@ I could try to trace that idea of social success through Darwin to Malthus and t
 I don’t mean this as some Nietzschean nightmare, where the happiness of the masses is the problem. When I think about what a collective of people being gentle and kind looks like, it is one which shares this feature. 
 
 It’s just we’re a mess. We set fire to things simply out of [curiosity](https://www.youtube.com/watch?v=SM-yqtSU2zg). Every generation in living memory has been at risk of running off the end of the S-curve, and we’re just the latest to spend our twenties flirting with it. I’m hoping (and it’s perhaps not my preferred vision but that’s just as it should be) that as this generation ages we’ll do what our parents and grandparents and all the rest did, and compromise just enough to stretch out the curve and pass it on.
-
-Love, 
-Stella 
