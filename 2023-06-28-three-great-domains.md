@@ -2,6 +2,7 @@
 title: "Three Great Domains"
 layout: post
 permalink: "36"
+author: galen
 date: 2023-07-03 07:30:37 +1000
 ---
 
