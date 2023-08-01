@@ -6,8 +6,6 @@ permalink: "37"
 title: "a mould fit for a steelman"
 ---
 
-Dear Galen, 
-
 Once, getting off the train on a summer evening in Glasgow central station, my cousin, a GP, was there to meet me as planned but looking nervously around. “There’s a festival on, they’ve been drinking all day” she tells me. There’s a young man slumped up ahead, in the archway through which we must pass to exit. It’s all a joke to me, her middle-aged discomfort in this rowdy, undignified crowd, until she clarifies: if she sees anyone in need of medical aid, she’ll have to stop and wait with them until an ambulance can get there, through peak hour traffic no less. 
 
 It’s a game of roulette for her, going out on a Friday night, with other people’s choices setting the odds. Is this particular young lad responsive? He sits up when she talks to him; she decides it’s ok for us to go on.  
@@ -21,6 +19,3 @@ The oath, by the way, forswears both abortion and compassionate euthanasia. Of c
 With an apology for dragging out your neat example for very little gain, I guess what I’m saying is something along the lines of this: that any non-utilitarian intervention into the field of moral duty will create (utilitarian) winners and losers, and that perversion of the established order will warp the people involved. Possibly for the better, of course, but under pressure, their metal will warp any which way unless it’s a tight mould. To actually improve things, the intervention has to follow its call to the good with stopgaps for the chill draft of perverse consequences, and then follow all that with some kind of sticky coating against the effect of time and moral slippage.
 
 You left me with a question, of [how to steelman a case for such interventions](https://angst.blog/36) – framing them as attempts to “retrain our reflexive fire-starting tendencies”, intersecting or even counter to the moral backbone of emotion. Deontology in the streets, you say, but not virtue ethics, which might be a more comfortable fit with that emotional backbone? 
-
-love, 
-stella
