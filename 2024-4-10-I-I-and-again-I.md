@@ -36,6 +36,3 @@ I was struck by how often in the archives you imply a reading list, while I try 
 Anything to get past the continual insistence: 
 
 *“Here is the pen and the paper; on the letters in the wire basket I sign my name, I, I, and again I.”*
-
-Love, stella
-
