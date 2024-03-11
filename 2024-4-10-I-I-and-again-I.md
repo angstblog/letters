@@ -5,8 +5,9 @@ layout: post
 permalink: "39"
 title: "I, I and again I"
 ---
->“Life passes. The clouds change perpetually over our houses.”  
->The Waves, Virginia Woolf
+
+> “Life passes. The clouds change perpetually over our houses.”  
+> The Waves, Virginia Woolf
 
 I let the days become months and now we’re in restart territory. Looking back over the archives and wondering what fragments, what images from our past writings still resonate?
 
@@ -14,7 +15,7 @@ I’m gonna take that excuse to go back a few years further.
 
 Sometime in my mid-twenties, when I was on the cusp of leaving the remaining bits of home I still clung to, the city of my youth, the university in which I became myself, I started reciting the passage that quote above comes from, over and over. In full, it goes like this:  
 
->Percival has died (he died in Egypt; he died in Greece; all deaths are one death). Susan has children; Neville mounts rapidly to the conspicuous heights. Life passes. The clouds change perpetually over our houses. I do this, do that, and again do this and then that. Meeting and parting, we assemble different forms, make different patterns. But if I do not nail these impressions to the board and out of the many men in me make one; exist here and now and not in streaks and patches, like scattered snow wreaths on far mountains; and ask Miss Johnson as I pass through the office about the movies and take my cup of tea and accept also my favourite biscuit, then I shall fall like snow and be wasted.
+> Percival has died (he died in Egypt; he died in Greece; all deaths are one death). Susan has children; Neville mounts rapidly to the conspicuous heights. Life passes. The clouds change perpetually over our houses. I do this, do that, and again do this and then that. Meeting and parting, we assemble different forms, make different patterns. But if I do not nail these impressions to the board and out of the many men in me make one; exist here and now and not in streaks and patches, like scattered snow wreaths on far mountains; and ask Miss Johnson as I pass through the office about the movies and take my cup of tea and accept also my favourite biscuit, then I shall fall like snow and be wasted.
 
 Everything I felt then now seems trivially attributable to the circumstances of the moment, all that anxiety about becoming. Nevertheless in that moment, this seemed to be the greatest challenge of life, the imperative: out of the many men in me make one. In order to do so, I felt, one needed to make the strongest of possible choices; to constrain the future actions of the self. To try by real-life effort to create an effect of the kind that Sarah Constantin describes from her button: guaranteeing future you does ["exactly and only what you think you should be doing at that moment"](https://angst.blog/38). 
 
