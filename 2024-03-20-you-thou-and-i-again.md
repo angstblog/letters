@@ -10,9 +10,9 @@ Sometimes, rarely, you stumble upon someone and realise — whether by the artef
 
 When I was "[on the cusp of leaving the remaining bits of home I still clung to](https://angst.blog/39)", I figured that this rare 'weird+agentic+ambitious' combination was nothing more than a product of random luck. A consequence of someone with congenital weirdness (and natural agency) who'd been protected from the Real World for long enough to make it work.
 
-"So you're someone who struts and fret on a larger stage *and* you're not obviously an asshole?" I'd think, "Wow, growing up must have been nice."
+"So you're someone who struts and frets on a larger stage *and* you're not obviously an asshole?" I'd think, "Wow, growing up must have been nice."
 
-More recently, however, I've started to grapple with a different explanation. Perhaps this tendency may instead more akin to a *skill* that has been cultivated into a *lifeway*. Not a product of protection from the real, but a deliberate consequence of encounters with it. You need a predisposition for weirdness, sure. You certainly also need help if you're going to shelter the flickering campfire of agency in the midst of rain, and wind, and relentless angst. But I also think there's *deliberate practice* here, coupled with a *deliberate attitude*.
+More recently, however, I've started to grapple with a different explanation. Perhaps this tendency is instead more akin to a *skill* that has been cultivated into a *lifeway*. Not a product of artificial protection from The Real, but a deliberate consequence of encounters with it. You need a predisposition for weirdness, sure. You certainly also need help if you're going to shelter the flickering campfire of agency in the midst of rain, and wind, and relentless angst. But I think there may also be *deliberate practice* here, coupled with a *deliberate attitude*.
 
 (Tentatively,) I want to call the lifeway that results '**dwarf mode**'. I want, also, to explain it and, in so doing, chart a path towards it.
 
