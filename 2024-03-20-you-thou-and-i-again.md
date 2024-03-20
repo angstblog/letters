@@ -30,7 +30,7 @@ In essence, **goblin mode** is a strategy of retreat, of 'degeneracy', as self-p
 
  When you enter goblin mode, you begin to relate to the material circumstances of your existence — including those of your own own physical body — through a lens of radical *objectification*. More critically, however, you also grasp your powerlessness in relation to those objects. No*thing* under your stewardship feels truly your own. (Not even the shiny little rocks you acquire.) And so you neglect everything. Essentially, the vibe is here is: "*fuck it, let the things fall apart; it's the natural tendency*".
 
-'The Things', I want to stress, *includes 'yourself'*. At the extreme, the goblin's body has become an object to itself, and not an object which the goblin have power over. *Let yourself fall apart*, insists the person in goblin mode, *because it's the natural tendency anyway*.
+'The Things', I want to stress, *includes 'yourself'*. At the extreme, the goblin's body has become an object to itself, and not an object which the goblin can have power over. *Let yourself fall apart*, insists the person in goblin mode, *because it's the natural tendency anyway*.
 
 **§ 2. Gnomes**
 
