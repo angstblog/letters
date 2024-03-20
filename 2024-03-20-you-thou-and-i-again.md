@@ -18,7 +18,7 @@ More recently, however, I've started to grapple with a different explanation. Pe
 
 Consider this an extended riff.
 
-## Goblins
+**§ 1. Goblins**
 
 For the benefit everyone who has blanked the pandemic years, 'Goblin Mode' is
 
@@ -32,7 +32,7 @@ In essence, **goblin mode** is a strategy of retreat, of 'degeneracy', as self-p
 
 'The Things', I want to stress, *includes 'yourself'*. At the extreme, the goblin's body has become an object to itself, and not an object which the goblin have power over. *Let yourself fall apart*, insists the person in goblin mode, *because it's the natural tendency anyway*.
 
-## Gnomes
+**§ 2. Gnomes**
 
 Venkatesh Rao responded to this by theorising what he called "a potential antithesis" from [@deepfates](https://twitter.com/deepfates/status/1534579842150289414) (via [@secretxsnake](https://www.instagram.com/secretxsnake/?hl=en)): '[**gnome mode**](https://studio.ribbonfarm.com/p/getting-to-gnome-mode)'.
 
@@ -42,11 +42,11 @@ When you're in **gnome mode**, as Rao figures it, you see everything under your 
 
 All well and good. However, as you know, I play perhaps too much D&D. As a result, I also have a more *complete* taxonomy in mind.
 
-## Bugbears
+**§ 3. Bugbears**
 
 On the one hand, there's what I want to call **bugbear mode**. The path to bugbear mode begins roughly the same. You experience exactly the same shitty circumstances as the soon-to-be-goblin does above: similar burnout; similar run-down conditions of objectification. (And, of course, the same black pill.) Whereas the *gnome* recovers by reducing ambition and agency projects 'in the garden shed', however, the *bugbear* finds a road to ‘recovery’ by leaning into a kind of joyfully *destructive* potential that’s latent in the objectification itself. This is a *dark enlightenment* of reduced ambitions as feral-physical scaffolding. You let yourself get weird and feral, just as before, but then you begin to find energy precisely in that which is darkest and scariest: the sense that the close-to-hand physical body-as-object can itself be reformed for use as a tool or, more specifically, *as a hammer*. From this, you generate a new (and arguably perverse) virtue-ethical framework. You steer towards becoming yourself hairy, scary, & jacked. You win localised dominance games, and are rewarded for it. You restructure your sense of prestige and identity to fit. This is the reason that there's so much commonality in the peculiar (hypermasculine) presentations of both outlaw motorcycle gangs and [special forces cultures](https://youtu.be/nBOrclf6rwA). (It's also no mistake that special forces selection processes place so much emphasis on traumatising via resource constraints.) The bugbear lifts heavy, grows a beard, and covers himself a very particular kind of ([shitty](https://youtu.be/P2d5r4WosM0)) tattoo. The vibe becomes: *things fall apart, but you can also break things in ways that feel kind fun, agentic, and strength-producing*. More critically, the right contexts, you'll be rewarded for such acts of deliberate and targeted violence.
 
-## Dwarves
+**§ 4. Dwarves**
 
 On the other hand, there's the thing I endorse: **dwarf mode**. This is my framework, so I am biased, but as I see it, *dwarf mode* combines the 'strength' of *bugbear mode* and the 'jolly tinkering' of *gnome mode* with scale and sustainability.
 
@@ -77,7 +77,7 @@ With a little bit of ingenuity, any cave can become the entrance into a hidden c
 
 All of this leads us to two footnotes to *dwarf mode*, in ascending order of weirdness —
 
-## Craft is Spiritual
+**§ 5. Craft is Spiritual**
 
 [Mythkeeper gives a shockingly good description](https://youtu.be/0r67uAr_88E?t=288) of the 'Dwarf' culture in the [*Pathfinder*](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game) setting:
 
@@ -93,7 +93,7 @@ The thing being crafted isn't just *the self*, whatever that means, but rather (
 
 [The degree to which you are divided is the degree to which you are conquered](https://tis.so/the-degree-to-which-you-are-divided-is-the-degree-to-which-you-are-conquered), so *don't play games with yourself in which you will need to defect*. The game is one of affordances, not chains, except in exceptional circumstances. Paradoxically, that's how the dwarves get a reputation for inhuman resolve.
 
-## Thou Did'st, Not I
+**§ 6. Thou Did'st, Not I**
 
 [I've written elsewhere about existential verbs](https://galen.me/p/contra-wagner), but trying to think take this tentative notion of ’*dwarf mode*’ seriously — and write from *inside* it, as above — reveals a more interesting issue with first person pronouns.
 
