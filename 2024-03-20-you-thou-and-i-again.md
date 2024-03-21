@@ -95,7 +95,7 @@ The thing being crafted isn't just *the self*, whatever that means, but rather (
 
 **§ 6. Thou Did'st, Not I**
 
-[I've written elsewhere about existential verbs](https://galen.me/p/contra-wagner), but trying to think take this tentative notion of ’*dwarf mode*’ seriously — and write from *inside* it, as above — reveals a more interesting issue with first person pronouns.
+[I've written elsewhere about existential verbs](https://galen.me/p/contra-wagner), but trying to think take this tentative notion of '*dwarf mode*' seriously — and write from *inside* it, as above — reveals a more interesting issue with first person pronouns.
 
 In the last season of these letters, both of us wrote a lot about the self. The [parliament](https://angst.blog/3), [naïve](https://angst.blog/15) and [stilted](https://angst.blog/4). The [ethics](https://angst.blog/27) of an [ethical distortion](https://angst.blog/37). Now, through Woolf, you give us a more mature question: “[what fragments, what images … still resonate?](https://angst.blog/39)”
 
